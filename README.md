@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi, I'm Ryan 👋
+
 - 🌱 I’m currently learning Front End Web Development
 - 💬 Ask me about plans for my future in software engineering
-- 📫 How to reach me: Discord, Slack, or Email
-
+- 📫 Connect with me on Discord: rydog#6413
+<br/>
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryd0g&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
 <br/>
