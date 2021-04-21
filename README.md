@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Front End Web Development
+- 💬 Ask me about plans for my future in software engineering
+- 📫 How to reach me: Discord, Slack, or Email
+
+
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryd0g&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryd0g&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
 
 <!--
 **ryd0g/ryd0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
