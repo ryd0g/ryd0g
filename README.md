@@ -13,11 +13,12 @@
 <code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryd0g&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
+<br/>
+
 <code><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></code>
 <code><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/></code>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryd0g&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
 
 **📊 Stats**
 
