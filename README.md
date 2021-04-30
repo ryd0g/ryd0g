@@ -15,7 +15,7 @@
 <code><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryd0g&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryd0g&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
 
 **📊 Stats**
 
