@@ -12,10 +12,6 @@
 <code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
 <code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryd0g&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
-
-
 **🛠 Frameworks**
 
 <code><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></code>
@@ -23,6 +19,8 @@
 <code><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/></code>
 
 **📊 Stats**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryd0g&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryd0g&show_icons=true&theme=tokyonight)](https://github.com/ryd0g/github-readme-stats)
 
