@@ -1,7 +1,7 @@
 ### Hi, I'm Ryan 👋
 
 - 🌱 I’m currently learning Front End Web Development
-- 💬 Looking to improve my skills as a software engineer
+- 💻 Looking to improve my skills as a software engineer
 - 📫 Connect with me on Discord: rydog#6413
 <br/>
 
