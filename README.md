@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Front End Web Development
 - 💻 Looking to improve my skills as a software engineer
-- 📫 Connect with me on Discord: rydog#6413
+- 📫 Connect with me on Discord: ryân#6413
 <br/>
 
 **💬 Languages**
