@@ -2,7 +2,6 @@
 
 - 🌱 Front End Developer
 - 💻 Looking to improve my skills as a software engineer and learn web3 development
-- 📫 Connect with me on Discord: ryân#6413
 <br/>
 
 **💬 Languages**
@@ -11,6 +10,8 @@
 <code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
 <code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
 <code><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/></code>
+
 
 **🛠 Frameworks**
 
